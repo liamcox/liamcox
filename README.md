@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-epaminsan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/liam-cox1010/)](https://www.linkedin.com/in/liam-cox1010/)
+[![Linkedin Badge](https://img.shields.io/badge/-liamcox-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/liam-cox1010/)](https://www.linkedin.com/in/liam-cox1010/)
 
-#### <img align='left' src="https://emoji.slack-edge.com/TSZCHB482/party-elijah/1d6f7095563d2a84.gif" width="20"> Hello, World! I'm a full-stack web developer.
+####  Hello, World! I'm a full-stack web developer.
 
 ```javascript
 const liam = {
