@@ -7,7 +7,7 @@
 ```javascript
 const liam = {
   code: [JavaScript, HTML, CSS, Python, SQL],
-  tools: [React, Redux, Node, Express, Sass, Jest, Cypress, PostgreSQL, SQLite],
+  tools: [React, React-Native, Redux, Node, EJS, Express, Sass, Jest, Cypress, PostgreSQL, MongoDB SQLite],
   challenge: 'Currently working with webscraping, and React Native',
 }
 ```
